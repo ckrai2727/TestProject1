@@ -1,9 +1,12 @@
 
 public class a {
-	 int x = 5;
+	 static int x = 500;
+	 static int y=400;
+	static int r;
 
 	  public static void main(String[] args) {
 	    a myObj = new a();
-	    System.out.println(myObj.x);
+	   r =x*y;
+	    System.out.println(myObj.r);
 	  }
 }

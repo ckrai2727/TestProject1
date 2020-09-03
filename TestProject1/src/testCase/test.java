@@ -4,8 +4,9 @@ public class test {
 	int x;
 
 	  public static void main(String[] args) {
-	   Test myObj = new Test();
+	   test myObj = new test();
 	    myObj.x = 40;
 	    System.out.println(myObj.x);
+	    System.out.println("Welcome Uttar Pradesh .......");
 	  }
 }
