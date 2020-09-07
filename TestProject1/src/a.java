@@ -7,6 +7,6 @@ public class a {
 	  public static void main(String[] args) {
 	    a myObj = new a();
 	   r =x*y;
-	    System.out.println(myObj.r);
+	    System.out.println(a.r);
 	  }
 }
