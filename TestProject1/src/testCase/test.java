@@ -7,6 +7,8 @@ public class test {
 	   test myObj = new test();
 	    myObj.x = 40;
 	    System.out.println(myObj.x);
-	    System.out.println("Welcome Uttar Pradesh .......");
+	    System.out.println("Welcome to Uttar Pradesh .................");
+	    
+	    System.out.println("Welcome to Madhay Pradesh .........");
 	  }
 }
